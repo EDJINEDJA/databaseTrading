@@ -3,7 +3,7 @@
         <img src="https://img.shields.io/badge/license-MIT-yellow.svg" />
     </a>
     <a href="https://github.com/EDJINEDJA//databaseTrading/commits/main" alt="Commits">
-        <img src="https://img.shields.io/github/last-commit/EDJINEDJA/databaseTrading/master" />
+        <img src="https://img.shields.io/github/last-commit/EDJINEDJA/databaseTrading/main" />
     </a>
     <a href="https://github.com/EDJINEDJA/databaseTrading" alt="Activity">
         <img src="https://img.shields.io/badge/contributions-welcome-orange.svg" />
