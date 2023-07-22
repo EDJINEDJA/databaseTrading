@@ -1,8 +1,8 @@
 <p align="center">
-    <a href="https://github.com/mhaythornthwaite/databaseTrading/blob/main/LICENSE" alt="Licence">
+    <a href="https://github.com/EDJINEDJA//databaseTrading/blob/main/LICENSE" alt="Licence">
         <img src="https://img.shields.io/badge/license-MIT-yellow.svg" />
     </a>
-    <a href="https://github.com/mhaythornthwaite/databaseTrading/commits/main" alt="Commits">
+    <a href="https://github.com/EDJINEDJA//databaseTrading/commits/main" alt="Commits">
         <img src="https://img.shields.io/github/last-commit/mhaythornthwaite/databaseTrading/master" />
     </a>
     <a href="https://github.com/EDJINEDJA/databaseTrading" alt="Activity">
