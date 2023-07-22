@@ -32,5 +32,5 @@
 
 ## Aims and Objectives
 
-Database Trading with NodeJS for fuster scraping
+Fuster scraping with NodeJS to serve a database of trading
 
