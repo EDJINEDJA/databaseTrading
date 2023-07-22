@@ -22,5 +22,5 @@
 
 ## Aims and Objectives
 
-Fuster scraping with NodeJS to serve a database of trading
+Fuster scraping with NodeJS to serve a database of cripto (trading)
 
