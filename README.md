@@ -29,7 +29,7 @@ Fuster scraping with NodeJS to serve a database of cripto (trading)
 #### Install
 - git clone 
 
-Clone this repository in the main folder of your project to use PilotD
+Clone this repository in the main folder of your project to use this tool
 ```bash
 $ git clone https://github.com/EDJINEDJA/databaseTrading.git
 ```
