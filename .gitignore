@@ -18,7 +18,9 @@
 *.httr-oauth*
  
 # Private Node Modules
-#node_modules/
+
+node_modules/
+package-lock.json
 #creds.js
  
 # Private Files
