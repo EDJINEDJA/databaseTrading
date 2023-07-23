@@ -18,11 +18,11 @@
 *.httr-oauth*
  
 # Private Node Modules
-node_modules/
-creds.js
+#node_modules/
+#creds.js
  
 # Private Files
-*.json
+#*.json
 *.csv
 *.csv.gz
 *.tsv

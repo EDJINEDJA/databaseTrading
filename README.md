@@ -23,4 +23,7 @@
 ## Aims and Objectives
 
 Fuster scraping with NodeJS to serve a database of cripto (trading)
+Make sure that you have already install NodeJS
+
+
 
