@@ -29,6 +29,8 @@ Make sure that you have already install NodeJS
 
 
 ## Usage
+Before getting started, if you realize that the folder node_modules and package-lock.json are present, please delete them and clean the cache.
+
 #### Install on inux OS
 - git clone 
 
