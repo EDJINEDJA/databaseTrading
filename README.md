@@ -29,7 +29,7 @@ Make sure that you have already install NodeJS
 
 
 ## Usage
-#### Install
+#### Install on inux OS
 - git clone 
 
 Clone this repository in the main folder of your project to use this tool
@@ -46,4 +46,35 @@ To install the required packages and run the script use:
 
 ```bash
 $ make run
+```
+
+#### Install on windows OS
+- git clone 
+
+Clone this repository in the main folder of your project to use this tool
+```bash
+$ git clone https://github.com/EDJINEDJA/databaseTrading.git
+```
+
+- requirements
+
+The toolkit support NodeJS
+
+In the folder databaseTrading
+
+The first move to utilsJS using this bellow command line
+
+```bash
+$ cd ./src/utilsJS/
+```
+
+Then install all dependencies using the bellow snippet code 
+
+```bash
+$ npm install
+```
+Finally, get started downloading candles using
+
+```bash
+$ node main.js
 ```
