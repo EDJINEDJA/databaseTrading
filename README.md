@@ -27,3 +27,23 @@ Make sure that you have already install NodeJS
 
 
 
+
+## Usage
+#### Install
+- git clone 
+
+Clone this repository in the main folder of your project to use this tool
+```bash
+$ git clone https://github.com/EDJINEDJA/databaseTrading.git
+```
+- requirements
+
+The toolkit support NodeJS
+
+In the folder databaseTrading
+
+To install the required packages and run the script use:
+
+```bash
+$ make run
+```
