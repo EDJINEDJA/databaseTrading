@@ -38,6 +38,7 @@ $ git clone https://github.com/EDJINEDJA/databaseTrading.git
 The toolkit support NodeJS
 
 In the folder databaseTrading
+
 To install the required packages and run the script use:
 
 ```bash
